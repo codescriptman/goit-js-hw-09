@@ -92,3 +92,4 @@ const galleryUse = new SimpleLightbox('.gallery a', {
   captionDelay: 250,
 });
 galleryUse.on('show.simplelightbox', function () {});
+// deploy
